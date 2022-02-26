@@ -1,5 +1,5 @@
 ## About Me
-- I'm a Back-end Engineer. 
+I am a backend developer and have some frontend skills. 
 
 ## Skill
 ![Preview](https://img.shields.io/badge/-Java-orange)
