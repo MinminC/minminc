@@ -21,6 +21,9 @@ I am a backend developer and have some frontend skills.
 <div align=center>
 <br>
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinminC&hide=contribs,prs)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinminC&hide=contribs,prs)  
+    
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjmin&hide=contribs,prs)  
+  sub Repository. I use this repository for Team Project.  
+  
 </div>
