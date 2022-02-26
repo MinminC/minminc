@@ -22,6 +22,7 @@ I am a backend developer and have some frontend skills.
 <br>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinminC&hide=contribs,prs)  
+  Main Repository.  
     
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minjmin&hide=contribs,prs)  
   sub Repository. I use this repository for Team Project.  
