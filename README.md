@@ -10,10 +10,3 @@ I am a backend developer and have some frontend skills.
 ![Preview](https://img.shields.io/badge/-JQuery-blue)  
 ![Preview](https://img.shields.io/badge/-MyBatis-yellow)
 ![Preview](https://img.shields.io/badge/-Spring-brightgreen)
-
-## Link
-[![Preview](https://img.shields.io/badge/Blog-Tistory-orange)](http://minminc.tistory.com/)
-<a href="mailto:inawest00@gmail.com">
- <img src="https://img.shields.io/badge/Mail-Gmail-d14836?link=mailto:inawest00@gmail.com"
-  style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
